@@ -1,0 +1,16 @@
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.csproj.AssemblyReference.cache
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.AssemblyInfoInputs.cache
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.AssemblyInfo.cs
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.csproj.CoreCompileInputs.cache
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\bin\Debug\net5.0\Pyatyorochka.exe
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\bin\Debug\net5.0\Pyatyorochka.deps.json
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\bin\Debug\net5.0\Pyatyorochka.runtimeconfig.json
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\bin\Debug\net5.0\Pyatyorochka.runtimeconfig.dev.json
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\bin\Debug\net5.0\Pyatyorochka.dll
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\bin\Debug\net5.0\ref\Pyatyorochka.dll
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\bin\Debug\net5.0\Pyatyorochka.pdb
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.dll
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\ref\Pyatyorochka.dll
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.pdb
+E:\Проги\2021\Pyatyorochka\Pyatyorochka\obj\Debug\net5.0\Pyatyorochka.genruntimeconfig.cache
