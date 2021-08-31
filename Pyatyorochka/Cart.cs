@@ -21,7 +21,7 @@ namespace Pyatyorochka
             PurchaseAmount += product.getPriceWithCoupon(discount);
             
             ProductNamesInCart.Add(product.Name);
-            Console.WriteLine($"Товар {product.Name} добавлен в корзину. Сумма к оплате с учетом скидки: {PurchaseAmount}");
+            Console.WriteLine($"Товар, {product.Name} добавлен в корзину. Сумма к оплате с учетом скидки: {PurchaseAmount}");
         }
 
         public void ClearCart()
