@@ -58,7 +58,7 @@ namespace Pyatyorochka
             Cart cart = new Cart();
             SecuritySystem security = new SecuritySystem();
 
-            Console.WriteLine($"Привет! {user.Name}, у тебя на счету: {user.Balance}\n");
+            Console.WriteLine($"Привет, {user.Name}, у тебя на счету: {user.Balance}\n");
             for (int i = 0; i < products.Count; i++)
             {
                 Console.WriteLine($"Товар {i}: {products[i].Name} Цена: {products[i].Price}");
